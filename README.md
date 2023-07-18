@@ -36,22 +36,6 @@ Du kannst die Webseite nach deinen eigenen Vorlieben anpassen, um zusätzliche F
 
 4. Überprüfe die Änderungen, indem du die `index.html`-Datei in einem Webbrowser öffnest.
 
-## Beitrag leisten
-
-Wenn du zur Weiterentwicklung der Self Portrait Webseite beitragen möchtest, kannst du gerne einen Beitrag leisten! Hier sind einige Schritte, um das zu tun:
-
-1. Fork dieses Repository auf GitHub.
-
-2. Klone dein geforktes Repository auf deinen Computer.
-
-3. Mache deine Änderungen an dem Code.
-
-4. Committe und pushe deine Änderungen in dein Repository.
-
-5. Eröffne ein Pull-Request in diesem Repository, um deine Änderungen vorzuschlagen.
-
-Wir freuen uns über jede Art von Beitrag, sei es Bugfixes, Funktionserweiterungen oder Verbesserungen der Dokumentation.
-
 ## Urheber
 
 Diese Webseite wurde von StartBootstrap erstellt und steht unter MIT-Lizenz zum herunterladen bereit.
